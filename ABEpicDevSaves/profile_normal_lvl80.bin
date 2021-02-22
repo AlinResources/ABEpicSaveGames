@@ -1,0 +1,939 @@
+
+playerP±J
+piggy_island
+hotspot_001_camp"'
+hotspot_002_battleground"0‘z(
+hotspot_004_battleground"0Ùô
+hotspot_002_01_arena"(
+hotspot_012_battleground"0“ª+
+hotspot_006_01_battleground"0ÃÖ(
+hotspot_006_battleground"0ËÂ(
+hotspot_007_battleground"0éµ 
+hotspot_008_01_cinepig"(
+hotspot_008_battleground"0ÏÇ(
+hotspot_009_battleground"0ò¿(
+hotspot_010_battleground"0ø∫)
+hotspot_011_01_resourcenode"È»î(
+hotspot_011_battleground"0ﬁ∆(
+hotspot_013_battleground"0Úü"
+hotspot_014_castle"0†ø 
+hotspot_015_trainerhut"*
+hotspot_016_battleground"(0–Î
+hotspot_017_workshop"(
+hotspot_018_battleground"0±‹(
+hotspot_019_battleground"0ÁÁ+
+hotspot_020_01_battleground"0Çß*
+hotspot_020_battleground"(0†ô)
+hotspot_021_01_resourcenode"ÍÈ»î(
+hotspot_021_battleground"0å•(
+hotspot_022_battleground"0¨ò!
+hotspot_022_01_workshop"(
+hotspot_023_battleground"0√«%
+hotspot_027_01_battleground"'
+hotspot_024_01_friendshipgate"%
+hotspot_024_02_battleground"%
+hotspot_024_03_battleground"
+hotspot_024_piglab"(
+hotspot_025_battleground"0ºÿ*
+hotspot_026_battleground"(0Ïí(
+hotspot_027_battleground"0˙Ì(
+hotspot_042_battleground"0∂Ò(
+hotspot_028_battleground"0ãﬁ%
+hotspot_029_01_battleground"(
+hotspot_029_battleground"0ç„&
+hotspot_030_resourcenode"‰È»î*
+hotspot_031_battleground"(0ÍÙ!
+hotspot_032_01_pathnode"#
+hotspot_032_02_trainerhut"(
+hotspot_032_battleground"0±»(
+hotspot_033_battleground"0©ë!
+hotspot_034_01_workshop"(
+hotspot_034_battleground"0∫è%
+hotspot_035_01_battleground"(
+hotspot_035_battleground"0™Á
+hotspot_040_pathnode"$
+hotspot_041_piggate_yellow"+
+hotspot_042_01_battleground"0ƒ–!
+hotspot_042_02_workshop"(
+hotspot_043_battleground"0æ¬(
+hotspot_044_battleground"0ÀÒ"
+hotspot_045_castle"0°Õ(
+hotspot_038_battleground"0±õ(
+hotspot_036_battleground"0Í˝(
+hotspot_037_battleground"0Øº%
+hotspot_038_01_battleground"(
+hotspot_039_battleground"0ÀË
+hotspot_046_pathnode" 
+hotspot_047_01_dungeon".
+hotspot_047_battleground"0¿‘8Ü¿ˆ›#
+hotspot_048_01_trainerhut"(
+hotspot_048_battleground"0‘Ö(
+hotspot_049_battleground"0º¯*
+hotspot_054_battleground"0¸õH%
+hotspot_049_01_piggate_blue"%
+hotspot_049_02_battleground"%
+hotspot_049_03_battleground" 
+hotspot_049_04_dungeon"!
+hotspot_050_01_workshop"(
+hotspot_050_battleground"0—¡(
+hotspot_051_battleground"0‹Ã)
+hotspot_052_01_resourcenode"ú≠Ä(
+hotspot_052_battleground"0Â∫+
+hotspot_053_01_battleground"8˝©Ò•!
+hotspot_053_02_workshop"(
+hotspot_053_battleground"0˘î%
+hotspot_054_01_battleground"#
+hotspot_054_02_trainerhut"'
+hotspot_054_03_friendshipgate"%
+hotspot_054_04_battleground"%
+hotspot_054_05_battleground"%
+hotspot_054_06_battleground"*
+hotspot_055_battleground"0…∂H	*
+hotspot_058_battleground"0π⁄H
+*
+hotspot_056_battleground"0È†H	*
+hotspot_057_battleground"0ÃòH
+!
+hotspot_058_01_workshop"*
+hotspot_059_battleground"0≥°H*
+hotspot_060_battleground"0≤îH#
+hotspot_061_01_trainerhut"*
+hotspot_061_battleground"0Ô∆H
+hotspot_062_pathnode",
+hotspot_063_battleground"(0ªÖH&
+hotspot_064_resourcenode"ä´Ä*
+hotspot_065_battleground"0’ÑH 
+hotspot_066_01_dungeon"*
+hotspot_066_battleground"0©ÓH,
+hotspot_067_battleground"(0íëH%
+hotspot_068_01_battleground"*
+hotspot_068_battleground"0‹ÎH$
+hotspot_069_castle"0Ñ§H%
+hotspot_076_04_battleground""
+hotspot_070_piggate_blue"!
+hotspot_071_01_workshop"%
+hotspot_071_02_battleground"$
+hotspot_071_03_piggate_red"%
+hotspot_071_04_resourcenode"%
+hotspot_071_05_battleground""
+hotspot_071_battleground""
+hotspot_072_battleground""
+hotspot_073_battleground""
+hotspot_074_battleground""
+hotspot_075_battleground"'
+hotspot_076_01_friendshipgate"%
+hotspot_076_02_battleground"#
+hotspot_076_03_trainerhut""
+hotspot_076_battleground"!
+hotspot_077_01_workshop""
+hotspot_077_battleground""
+hotspot_080_battleground""
+hotspot_078_battleground""
+hotspot_079_battleground" 
+hotspot_080_01_dungeon"%
+hotspot_080_02_battleground"%
+hotspot_080_03_battleground"!
+hotspot_080_04_workshop"%
+hotspot_081_01_battleground"!
+hotspot_081_02_workshop"%
+hotspot_081_03_battleground"%
+hotspot_081_04_battleground""
+hotspot_081_battleground""
+hotspot_082_battleground""
+hotspot_083_battleground""
+hotspot_084_battleground"!
+hotspot_080_11_pathnode"%
+hotspot_080_05_battleground"%
+hotspot_080_06_battleground"%
+hotspot_080_07_resourcenode"%
+hotspot_080_08_battleground"%
+hotspot_080_09_battleground" 
+hotspot_080_10_dungeon"%
+hotspot_080_12_battleground"#
+hotspot_080_13_trainerhut"%
+hotspot_080_14_battleground"%
+hotspot_080_15_battleground"%
+hotspot_080_16_battleground"%
+hotspot_080_17_resourcenode"#
+hotspot_086_01_trainerhut"
+hotspot_086_castle""
+hotspot_087_battleground""
+hotspot_093_battleground"%
+hotspot_084_01_resourcenode""
+hotspot_085_battleground""
+hotspot_088_battleground"
+hotspot_089_workshop""
+hotspot_090_battleground""
+hotspot_091_battleground"(
+hotspot_092_01_mightyeagledojo" 
+hotspot_092_02_dungeon""
+hotspot_092_battleground"%
+hotspot_093_01_resourcenode"$
+hotspot_094_01_piggate_red"%
+hotspot_094_02_battleground"%
+hotspot_094_03_battleground"!
+hotspot_094_04_pathnode"%
+hotspot_094_05_battleground"%
+hotspot_094_06_battleground"!
+hotspot_094_07_workshop"'
+hotspot_094_08_friendshipgate"%
+hotspot_094_09_battleground"#
+hotspot_094_10_trainerhut"%
+hotspot_094_11_battleground"!
+hotspot_094_12_pathnode"%
+hotspot_094_13_battleground""
+hotspot_094_battleground"
+hotspot_105_castle""
+hotspot_095_battleground""
+hotspot_096_battleground"
+hotspot_097_pathnode""
+hotspot_098_battleground"%
+hotspot_099_06_battleground"!
+hotspot_099_07_pathnode"%
+hotspot_099_08_battleground""
+hotspot_099_battleground""
+hotspot_100_battleground"
+hotspot_101_pathnode""
+hotspot_102_battleground""
+hotspot_103_battleground""
+hotspot_104_battleground"!
+hotspot_105_01_workshop"%
+hotspot_099_04_battleground"%
+hotspot_099_01_battleground" 
+hotspot_099_03_dungeon"%
+hotspot_099_05_resourcenode"%
+hotspot_018_09_battleground"-
+hotspot_017_01_battleground"(0Å∞+
+hotspot_017_02_battleground"0ˇù'
+hotspot_018_01_piggate_yellow"+
+hotspot_018_02_battleground"0ÑÂ-
+hotspot_018_03_battleground"(0ﬁÜ%
+hotspot_018_04_piggate_blue"%
+hotspot_018_05_battleground"%
+hotspot_018_06_battleground"$
+hotspot_018_07_piggate_red"%
+hotspot_018_08_battleground"#
+hotspot_018_10_trainerhut"%
+hotspot_099_09_battleground"!
+hotspot_099_10_workshop"%
+hotspot_099_11_battleground"%
+hotspot_099_12_battleground"%
+hotspot_099_13_battleground"#
+hotspot_099_14_trainerhut"%
+hotspot_099_15_battleground"!
+hotspot_099_16_workshop"&
+hotspot_104_01_chroniclecave"$
+hotspot_116_friendshipgate"
+hotspot_114_castle"%
+hotspot_081_05_battleground"%
+hotspot_081_06_battleground"#
+hotspot_081_07_trainerhut""
+hotspot_106_battleground""
+hotspot_107_battleground"%
+hotspot_108_01_battleground"%
+hotspot_108_02_battleground"%
+hotspot_108_03_resourcenode"%
+hotspot_108_04_battleground"%
+hotspot_108_05_battleground"%
+hotspot_108_06_battleground"%
+hotspot_108_07_resourcenode""
+hotspot_108_battleground""
+hotspot_109_battleground""
+hotspot_110_battleground""
+hotspot_111_battleground""
+hotspot_112_battleground""
+hotspot_113_battleground"$
+hotspot_115_friendshipgate"
+hotspot_117_pathnode"%
+hotspot_094_10_battleground"%
+hotspot_018_10_battleground"*
+hotspot_016_battleground"(0–Î")
+hotspot_golden_pig_battleground"";
+player_inventory
+
+story_shop
+story_mailbox
+comic_cutscene_01
+unlock_rage(
+unlock_hide_turns(
+unlock_gloden_pig_rage(
+sonic_teaser_info(
+addbird_yellowbird(
+rate_app_01(
+unlock_toons(
+story_forge(
+forge_leveled(
+unlock_itemcraftedonce("
+special_offer_golden_chili(
+special_cauldron_offer(
+unlock_replay(
+story_cauldron(
+cauldron_leveled( 
+unlock_potioncraftedonce(
+unlock_reroll_tutorial( 
+unlock_reroll_first_reroll(
+unlock_reroll_failed_roll(
+castle01_chest(
+egg_01(
+comic_cutscene_02 
+unlock_sponsored_rewards(
+unlock_autobattle(%
+unlock_craft_reroll_failed_roll(&
+ unlock_craft_reroll_first_reroll(
+rate_app_02(
+unlock_rovio_account(%
+special_offer_golden_chili_02(
+hint_lightningbird(
+addbird_whitebird(
+unlock_friendshipgate(
+story_goldenpig
+addbird_blackbird(
+unlock_facebook(
+story_steeringwheel_02(
+unlock_ship(
+unlock_events
+
+unlock_pvp
+comic_cutscene_pvp
+pvp_league_crown(
+pvp_league_crown_max(
+hint_fuse_ingredients(
+unlock_mastery_badge	(
+star_aquiredreward_01(
+star_popup_01(
+hint_fuse_resources(
+miniboss_39_chest(
+
+key_yellow(
+addbird_bluebird(!
+special_cauldron_offer_02(
+miniboss_42_01_chest(
+unlock_goldenpigspawn(
+rate_app_03(
+hint_hotspot_45(
+egg_02(
+comic_cutscene_03
+unlock_dungeon_01(
+pvp_won_battles( 
+special_offer_rainbow_riot	(
+special_offers(
+rate_app_07(
+rate_app_08(
+unlock_xpromo(
+unlock_skins(
+
+unlock_bps(&
+unlock_mastery_conversion_to60(
+star_aquiredreward_02(
+unlock_dungeon_02(
+unlock_enchantment(
+egg_03(
+key_blue(
+comic_cutscene_04%
+special_offer_rainbow_riot_02(
+unlock_offer_perma_xxlR(
+
+experience”ﬁ
+goldÙ†ã]0
+
+lucky_coinﬂ€ã]0
+friendship_essenceø—ã]0
+star_collectionÆ( 
+daily_chain_introduction(
+event_energy(
+gacha_first_use(
+gacha_standard_uses"(
+high_gacha_used(
+
+pvp_energy(
+free_pvpgacha_use(
+pvpgacha_standard_uses(
+pvp_points_standard
+(
+event_gate_unlock(
+event_points_standard©(
+free_gacha_use(
+news_introduction(
+shardˇ—ã](0"
+class_knight*ã5 ®ìE"
+
+class_mage+‰5 8öE"
+class_guardian*◊ 5 ®ìE"!
+class_lightningbird+‰ 5 8öE"
+class_cleric+‰5 8öE"
+class_pirate*◊5 ®ìE"
+class_tricksters*À5 ®ìE"
+class_druid+‰ 5 8öE"
+class_samurai*ã 5 ®ìE"
+class_rogues*À 5 ®ìE"
+class_princess*‚ 5 ®ìE"
+class_rainbird*‚ 5 ®ìE"
+class_avenger* 5 ®ìE"
+class_paladin* 5 ®ìE"
+class_stoneguard* 5 ®ìE"
+class_wizard*÷5 ®ìE"
+class_thunderbird*÷5 ®ìE"
+class_illusionist*÷5 ®ìE"
+
+class_bard*÷5 ®ìE"
+class_priest*÷5 ®ìE"
+class_witch*÷5 ®ìE"
+class_cannoneer* 5 ®ìE"
+class_berserk* 5 ®ìE"
+class_captn* 5 ®ìE"
+class_seadog* 5 ®ìE"
+class_winterfighter* 5 ®ìE"
+class_skulkers*}5 ®ìE"
+class_spies*}5 ®ìE"
+class_marksmen*}5 ®ìE" 
+class_treasurehunters*}5 ®ìE*]
+bird_weapon_red_lance_set_03R *
+resource_bamboo *
+resource_seashell*	
+shard@*a
+bird_weapon_yellow_wand_set_04R *
+resource_seastar *
+resource_wood*	
+shard@M7øÖ<*n
+#bird_weapon_white_frying_pan_set_04R *
+resource_slingshot_twig *
+resource_stone*	
+shard@M†;*Z
+bird_weapon_black_bomb_set_02R *
+resource_corals *
+resource_wood*	
+shard@*_
+bird_weapon_blue_bow_set_04R *
+resource_seashell *
+resource_wood*	
+shard@Mø˛’:2e
+bird_offhand_red_shield_set_03R *
+resource_squarewood *
+resource_stone*	
+shard@Mø˛’;2\
+bird_offhand_yellow_book_set_04R *
+resource_paper *
+resource_stone*	
+shard@2c
+bird_offhand_white_doll_set_04R *
+resource_limestone *
+resource_wood*	
+shard@Mø˛’:2d
+"bird_offhand_black_talisman_set_02R *
+resource_fossil *
+resource_wood*	
+shard@Móæp=2i
+$bird_offhand_blue_lucky_cards_set_04R *
+resource_paper *
+resource_seashell*	
+shard@Mø˛’::
+resource_flotsam:
+resource_woodµ	:
+resource_seashell:
+resource_stone:
+resource_cobalt_stone:
+resource_paperâ:
+resource_limestoneû:
+resource_corals:
+resource_fossil: 
+resource_slingshot_twig®(:
+resource_seastar(:
+resource_bamboo†(:
+resource_squarewood†(:
+resource_oreq(B
+ingredient_bananaB
+ingredient_waterB
+ingredient_vialB
+ingredient_shiny_sand;B
+ingredient_hot_tomatoB
+ingredient_seeds'B
+ingredient_sea_berryJ
+potion_energyJ
+potion_healing_03(J
+potion_xp_01(R
+recipe_flotsam R
+recipe_wood R
+recipe_seashell 0R
+recipe_stone R
+recipe_banana R
+recipe_seeds R
+recipe_water R
+recipe_vial R
+recipe_shiny_sand 0R 
+recipe_weapon_red_lance_01R
+recipe_hot_tomato0R
+recipe_cobalt_stone0R
+recipe_potion_xp_01R!
+recipe_potion_damage_all_01R(
+recipe_offhand_yellow_orb_01 (0R(
+recipe_offhand_red_shield_01 (0R'
+recipe_weapon_yellow_broom_01 0R'
+recipe_weapon_red_hammer_01	 (0R
+recipe_potion_rage_01 R
+recipe_paper 0R%
+recipe_weapon_white_comb_01 0R
+recipe_sea_berry 0R
+recipe_fossil0R'
+recipe_offhand_yellow_book_01 0R
+recipe_limestone 0R
+recipe_potion_energyR
+recipe_corals0R
+recipe_seastar(0R/
+%recipe_weapon_black_punching_glove_01 0R$
+recipe_weapon_red_sword_01 0R*
+ recipe_offhand_black_talisman_01 0R&
+recipe_weapon_yellow_wand_01 0R&
+recipe_offhand_white_doll_01 0R&
+recipe_offhand_red_banner_01 0R!
+recipe_slingshot_twig (0R-
+!recipe_weapon_white_frying_pan_01 (0R'
+recipe_weapon_black_bomb_01 (0R+
+recipe_weapon_blue_slingshot_01 (0R$
+recipe_potion_healing_03 (0R
+recipe_snow_apple (0R 
+recipe_crystal_water (0R
+recipe_greater_vial (0R+
+recipe_offhand_white_handbag_01 (0R0
+$recipe_offhand_black_treasure_map_01	 (0R
+recipe_bamboo (0R
+recipe_squarewood (0R
+
+recipe_ore (0b/
+event_boss_tinker(2bosslocation_03_tinkerb/
+event_boss_tinkerP(2bosslocation_03_tinkerb/
+event_boss_tinkerP(2bosslocation_03_tinkerb/
+event_boss_tinkerP(2bosslocation_03_tinkerj
+mastery_current»(j
+mastery_bird_white.(j
+mastery_bird_yellow.(r
+banner_tip_l1_q1_s10r
+banner_banner_l1_q1_s10r
+banner_emblem_080r 
+banner_banner_l1_q4_s5 0z
+
+pvp_trophy
+ ä
+skin_knightä
+	skin_mageä
+skin_guardianä
+skin_lightningbirdä
+skin_clericä
+skin_pirateä
+skin_trickstersä
+
+skin_druidä
+skin_samuraiä
+skin_roguesä
+skin_princess ä
+skin_rainbird ä
+skin_avenger ä
+skin_paladin ä
+skin_stoneguard ä
+skin_wizard ä
+skin_thunderbird ä
+skin_illusionist ä
+	skin_bard ä
+skin_priest ä
+
+skin_witch ä
+skin_cannoneer ä
+skin_berserk ä
+
+skin_captn ä
+skin_seadog ä
+skin_winterfighter ä
+skin_skulkers ä
+
+skin_spies ä
+skin_marksmen ä
+skin_treasurehunters *ë
+bird_redPÇ
+red_bird_start"
+class_knight*ã5 ®ìE*]
+bird_weapon_red_lance_set_03R *
+resource_bamboo *
+resource_seashell*	
+shard@2e
+bird_offhand_red_shield_set_03R *
+resource_squarewood *
+resource_stone*	
+shard@Mø˛’;ä
+skin_knight*¢
+bird_yellowPê
+yellow_bird_start"!
+class_lightningbird+‰ 5 8öE*a
+bird_weapon_yellow_wand_set_04R *
+resource_seastar *
+resource_wood*	
+shard@M7øÖ<2\
+bird_offhand_yellow_book_set_04R *
+resource_paper *
+resource_stone*	
+shard@ä
+skin_lightningbird*§
+
+bird_whitePì
+white_bird_start"
+class_cleric+‰5 8öE*n
+#bird_weapon_white_frying_pan_set_04R *
+resource_slingshot_twig *
+resource_stone*	
+shard@M†;2c
+bird_offhand_white_doll_set_04R *
+resource_limestone *
+resource_wood*	
+shard@Mø˛’:ä
+skin_cleric*ë
+
+bird_blackPÄ
+black_bird_start"
+class_pirate*◊5 ®ìE*Z
+bird_weapon_black_bomb_set_02R *
+resource_corals *
+resource_wood*	
+shard@2d
+"bird_offhand_black_talisman_set_02R *
+resource_fossil *
+resource_wood*	
+shard@Móæp=ä
+skin_pirate*°
+	bird_bluePë
+blue_bird_start"
+class_tricksters*À5 ®ìE*_
+bird_weapon_blue_bow_set_04R *
+resource_seashell *
+resource_wood*	
+shard@Mø˛’:2i
+$bird_offhand_blue_lucky_cards_set_04R *
+resource_paper *
+resource_seashell*	
+shard@Mø˛’:ä
+skin_tricksters2protobuf8ÿ∂§ M Äì=R
+tutorial_start_first_battleR 
+tutorial_start_second_battleR
+tutorial_defensive_abilityR
+tutorial_save_yellowR%
+!tutorial_use_supportskill_on_ally R
+tutorial_offensive_yellowR
+tutorial_defensive_yellowR
+tutorial_whiteR
+tutorial_tooltip_enemyR
+tutorial_craft_first_itemR
+tutorial_harvestR
+tutorial_buy_cauldronR!
+tutorial_craft_healing_potionR
+tutorial_buy_classR
+tutorial_use_consumableR
+tutorial_equip_classR
+tutorial_exit_buy_classR"
+tutorial_buy_mainhandequipmentR$
+ tutorial_buy_mainhandequipment_2R
+tutorial_buy_consumableR
+tutorial_craft_second_itemR
+tutorial_exit_buy_equipmentR
+tutorial_use_gachaR
+enter_friendlist R
+tutorial_battle_ruleR
+tutorial_pvp_first_fightR
+tutorial_enchantmentZhotspot_008_battleground`Ï¥§ ò òò™
+chronicle_cave0¥µÆ±∫û£
+default10203806629404807"	NPC_Porky"NPC_Adventurer"NPC_Low"NPC_High*
+	NPC_Porky *
+NPC_Adventurer *
+NPC_Low *
+NPC_High :Ä9DC477D3D27598A7DE09637FC940B5F2D48A0E345437D037590AF57DA95560E721588A75E369E5AFAE98674AB9B55EC687EE3DBC4B5C23446B437FBEC29FAAB5@£Ω®±J—
+	NPC_Porky *  * 0“∂§ 8Bnpc_friend_princeJ Zà
+bird_banner_porkyq
+bird_banner_mccoolr
+banner_flag_set_04 (0r
+banner_emblem_23 (0r
+banner_tip_set_04 (0` ``hpçØLJ⁄
+NPC_Adventurer *  * 0“∂§ 8Bnpc_friend_adventurerJ Zà
+bird_banner_porkyq
+bird_banner_mccoolr
+banner_flag_set_04 (0r
+banner_emblem_23 (0r
+banner_tip_set_04 (0` ``hpç!‘#J—
+NPC_Low *  * 0“∂§ 8Bnpc_friend_merchantJ Zà
+bird_banner_porkyq
+bird_banner_mccoolr
+banner_flag_set_04 (0r
+banner_emblem_23 (0r
+banner_tip_set_04 (0` ``hpç˝™~Jœ
+NPC_High *  * 0“∂§ 8Bnpc_friend_eagleJ Zà
+bird_banner_porkyq
+bird_banner_mccoolr
+banner_flag_set_04 (0r
+banner_emblem_23 (0r
+banner_tip_set_04 (0` ``hpçoˇ˚}Zè
+$db496904-5902-4ec8-a1cb-543c864db230ÿ
+Oliver ZimtsternÄ1C959D96FE173595E87F7E5484C4380385B7876E2F2BD413B0B64BA6E9542DD2D2E32B4DEDD7C1F8A7BD878AEC85B1023D2E859A227C7556288476836ADE137E=https://graph.facebook.com/986676531358864/picture?type=large(00î™£µ8‡¸ì¥Zå
+$06d1ba36-3e58-4012-a7ad-ffd48ecf1b8c’
+Christian KlucknerÄ3BF0ED3858497350F50B0150F8879AC24010A4BEF94F0DEA8851FA47E238ED91F36AF41A5CF85E431F44C64A068B503061E9A38971A2CA9C592398AC97513D5F8https://graph.facebook.com/1127380378/picture?type=large(020ñ™£µ8ÜëïµZZ
+$ec9fc011-593c-438a-b95e-d1ae225959b9$
+npc_friend_merchantNPC_Low 08 ÓÀ«µ0˙À«µZÅ
+$c8ff12c4-31d8-4560-85f8-628bacba599d–
+Michael StapfÄ31AF62D658E400E69CE6A12BFAD91C7A5536984A77FD6C01C6AB85E619E277A94A5E600B25A074124B6548E41025DB16AF11EC3770CA1ED04312B07576D3E1518https://graph.facebook.com/1685245077/picture?type=large(018óä µZÜ
+$701acd42-7c60-49a1-8993-f1a79aa306e7’
+Christian KlucknerÄ3BF0ED3858497350F50B0150F8879AC24010A4BEF94F0DEA8851FA47E238ED91F36AF41A5CF85E431F44C64A068B503061E9A38971A2CA9C592398AC97513D5F8https://graph.facebook.com/1127380378/picture?type=large(028Ï¶ÃµZè
+$25326151-03b0-4210-8fd1-3dd1790b912eﬁ
+Boris Conrad HeissererÄ7F356673C05FA93AFE55BD6034C2E5FC2BD55FFA7CC48B374B89E3D66C6A801EE0906814BC8A04169EFE30966482A2CDC75CDCF4CF46229D717C7BC68DBFE7EC=https://graph.facebook.com/100000195283908/picture?type=large(028πº—µZÅ
+$bc0fbc94-b4c5-4c0b-a3e2-9e121d9b019c	–
+Michael StapfÄ31AF62D658E400E69CE6A12BFAD91C7A5536984A77FD6C01C6AB85E619E277A94A5E600B25A074124B6548E41025DB16AF11EC3770CA1ED04312B07576D3E1518https://graph.facebook.com/1685245077/picture?type=large(018’•ÈµZà
+$7de21f82-5655-48d9-b2c5-1b3a64a55e94◊
+Dominic HaesnerÄ89FFECC054C36ADF43FC1B6FC8C2FC61063A2003B30DF7F6A6098C1DBECC3A14671B0B9EA8FCB268F8FD7040FC82891695705019275806DB8E9E26AD2F3D0D9D=https://graph.facebook.com/100000331280396/picture?type=large(028…“—∂Zà
+$a8eb16d9-953b-4a5a-851a-d9e3d4a493d8	◊
+Dominic HaesnerÄ89FFECC054C36ADF43FC1B6FC8C2FC61063A2003B30DF7F6A6098C1DBECC3A14671B0B9EA8FCB268F8FD7040FC82891695705019275806DB8E9E26AD2F3D0D9D=https://graph.facebook.com/100000331280396/picture?type=large(028áØ¸∂ZÅ
+$0bd92862-f1a6-4ba8-b757-3459625c93b7–
+Markus WildingÄ5EC3E135927FA31FAD96B0E0C13EBDD0C7D81FDFA2F0CA6EAD6E747A9E07CCFFE1664F649463BD0162A3F28226D0C3F0419E04F5DF0C084186E503C1DADB5D8A7https://graph.facebook.com/672454598/picture?type=large(08∞ïõ∑ZÅ
+$9b6029cb-5d73-443e-be83-ae4beb3b326c–
+Michael StapfÄ31AF62D658E400E69CE6A12BFAD91C7A5536984A77FD6C01C6AB85E619E277A94A5E600B25A074124B6548E41025DB16AF11EC3770CA1ED04312B07576D3E1518https://graph.facebook.com/1685245077/picture?type=large(028Ôº—∑ZÜ
+$d4e32595-9592-455a-bdc5-425bc581f5ed’
+Andreas StapsÄ835B09F0625B288DF7064667A02FC1DEAE8E7C10B91E950FE5CD18D0A7B49DCD2F8EA4437CA9073552B6F30E3B8A113A18BB187128E893B101FB7C34DD005124=https://graph.facebook.com/100001958644717/picture?type=large(08µ†ﬁ∑Zˇ
+$53c5c14b-634f-4476-9718-46d9b8ac7ce0Œ
+Chris DreherÄF59D9811D681CF364B7034642449535D489A45F2A2400127A8CD49CC1ABABDB0443854BA41FCB81088B33C7A251A81A4B0E9948363A378F2738EFF084A7FA82C7https://graph.facebook.com/685408867/picture?type=large(08Ü”Ì∑ZÜ
+$b6594b30-94a3-45ce-8180-73e6d42a69e7’
+Andreas StapsÄ835B09F0625B288DF7064667A02FC1DEAE8E7C10B91E950FE5CD18D0A7B49DCD2F8EA4437CA9073552B6F30E3B8A113A18BB187128E893B101FB7C34DD005124=https://graph.facebook.com/100001958644717/picture?type=large(08ûÜÒ∑Zé
+$e2806869-e54a-458e-a4b5-c261a94b4871›
+Christopher WillmannÄCCAFF8AE5C9060FEAFFDE883F31A7AFEA01CC4FB31FB581BA55358B2F2F63158BD790E4FB30332BA702F72693A75DE1CDBF15E51B28F52B70A2ABA764A7F1D68>https://graph.facebook.com/1149149681784089/picture?type=large(08Â‡˘∑Z™
+$71725224-63f9-4279-8606-35aa2ef87b5b›
+Christopher WillmannÄCCAFF8AE5C9060FEAFFDE883F31A7AFEA01CC4FB31FB581BA55358B2F2F63158BD790E4FB30332BA702F72693A75DE1CDBF15E51B28F52B70A2ABA764A7F1D68>https://graph.facebook.com/1149149681784089/picture?type=large(08ë¨Ä∏Bhotspot_116_friendshipgateZ≠
+$d4ac370c-4dac-44cf-9a95-d9f1a068055c›
+Christopher WillmannÄCCAFF8AE5C9060FEAFFDE883F31A7AFEA01CC4FB31FB581BA55358B2F2F63158BD790E4FB30332BA702F72693A75DE1CDBF15E51B28F52B70A2ABA764A7F1D68>https://graph.facebook.com/1149149681784089/picture?type=large(08¶ÓΩ∏Bhotspot_076_01_friendshipgateZ≠
+$f927c863-7d15-4856-b49a-36513f87af2c›
+Christopher WillmannÄCCAFF8AE5C9060FEAFFDE883F31A7AFEA01CC4FB31FB581BA55358B2F2F63158BD790E4FB30332BA702F72693A75DE1CDBF15E51B28F52B70A2ABA764A7F1D68>https://graph.facebook.com/1149149681784089/picture?type=large(08¿®Õ∏Bhotspot_054_03_friendshipgateZ™
+$55641274-4ec1-4519-aa45-d76a090639bb›
+Christopher WillmannÄCCAFF8AE5C9060FEAFFDE883F31A7AFEA01CC4FB31FB581BA55358B2F2F63158BD790E4FB30332BA702F72693A75DE1CDBF15E51B28F52B70A2ABA764A7F1D68>https://graph.facebook.com/1149149681784089/picture?type=large(08î√È∏Bhotspot_115_friendshipgateZá
+$b7d04454-26f4-4ee2-8706-9f463a0808f8÷
+Sigi AtChimeraÄ5B633E5405B843D1807AB719825AB9ADDB620831924A47A27175D481102BB613DA526A9E75E30B24A6B9D7C90A3733E63E0CD66034470563E4BBB0F1F3E5544A=https://graph.facebook.com/100005139225685/picture?type=large(028∂˜ªπZá
+$17ce948b-1776-4da8-87c5-ad72054133aa	÷
+Sigi AtChimeraÄ5B633E5405B843D1807AB719825AB9ADDB620831924A47A27175D481102BB613DA526A9E75E30B24A6B9D7C90A3733E63E0CD66034470563E4BBB0F1F3E5544A=https://graph.facebook.com/100005139225685/picture?type=large(028ë°ã∫ZÖ
+$9bf0c9a8-702a-4f07-81b1-929952f5cb00‘
+Robert BerckhemerÄB78273DADF4253E103504BCC50C9011BEA96420B15BB1FDB52BB477B4ADD682282A0424B85A071F74909750FF7D66E86109B9496D39DEE863918F7CC501D9A9E8https://graph.facebook.com/1690329711/picture?type=large(08ùú¢∫Zë
+$840f3c1e-4b16-40ad-992c-f1ca022bb534‡
+Roman Alexis AnastasiniÄE494B5D4298755BF765D483195D2AA7CFAD446C873D9D3CCC8C320CBD8E5B4BAF51E13E16F995798507D6A02C1A4F3086859639904DF452DAB1015A9C9639D3C>https://graph.facebook.com/1231825880168469/picture?type=large(08è÷¡∫Z≠
+$575c37fc-c377-4b15-8dcb-9e057237dbf9›
+Christopher WillmannÄCCAFF8AE5C9060FEAFFDE883F31A7AFEA01CC4FB31FB581BA55358B2F2F63158BD790E4FB30332BA702F72693A75DE1CDBF15E51B28F52B70A2ABA764A7F1D68>https://graph.facebook.com/1149149681784089/picture?type=large(08 £«∫Bhotspot_094_08_friendshipgateZë
+$4a152a05-bbbc-4339-9c26-de6d14c052b3	‡
+Roman Alexis AnastasiniÄE494B5D4298755BF765D483195D2AA7CFAD446C873D9D3CCC8C320CBD8E5B4BAF51E13E16F995798507D6A02C1A4F3086859639904DF452DAB1015A9C9639D3C>https://graph.facebook.com/1231825880168469/picture?type=large(08Ñ†“∫ZÅ
+$79376dcd-0a0a-4728-a49b-cba0d8b14dce	–
+Michael StapfÄ31AF62D658E400E69CE6A12BFAD91C7A5536984A77FD6C01C6AB85E619E277A94A5E600B25A074124B6548E41025DB16AF11EC3770CA1ED04312B07576D3E1518https://graph.facebook.com/1685245077/picture?type=large(048ÿÆ¸∫Z∞
+$70950262-a4d0-4236-9bda-db988d78662f‡
+Roman Alexis AnastasiniÄE494B5D4298755BF765D483195D2AA7CFAD446C873D9D3CCC8C320CBD8E5B4BAF51E13E16F995798507D6A02C1A4F3086859639904DF452DAB1015A9C9639D3C>https://graph.facebook.com/1231825880168469/picture?type=large(0
+8”‘ÀªBhotspot_054_03_friendshipgateZÅ
+$9d87961f-8178-4707-b68c-2921308a750c–
+Hendrik LesserÄ86742234C06216F719EB58BFFDC86530FFF55744D79C31CDDFFFBC90833DE157FFD1CF92BAE683E4E3BC2E49432E0D57137664B086625948B92F8B01E3B66FAD7https://graph.facebook.com/702868422/picture?type=large(08éé¯ªZà
+$60e0a2ed-7623-4045-ada0-6524fd734634	◊
+Dominic HaesnerÄ89FFECC054C36ADF43FC1B6FC8C2FC61063A2003B30DF7F6A6098C1DBECC3A14671B0B9EA8FCB268F8FD7040FC82891695705019275806DB8E9E26AD2F3D0D9D=https://graph.facebook.com/100000331280396/picture?type=large(0<8¢ª˛ªZà
+$e194c2f9-f554-41ec-9dc1-3f0d43c5b8eb◊
+Dominic HaesnerÄ89FFECC054C36ADF43FC1B6FC8C2FC61063A2003B30DF7F6A6098C1DBECC3A14671B0B9EA8FCB268F8FD7040FC82891695705019275806DB8E9E26AD2F3D0D9D=https://graph.facebook.com/100000331280396/picture?type=large(0<8°ø˛ªZÑ
+$d1886bac-12e0-4159-ba10-c64c4e367cb3”
+Anna McDohlÄ2DAC66D08B171D2CE626F8B55AC3555B948A5C8F0132173219392A9B6F224BA944441207099C7E41625D884BC06042EA0D2C1D765C4FF7666F428541AB26AB52=https://graph.facebook.com/100000164206215/picture?type=large(0(8Üß ºZà
+$3e6043c4-c5b0-42c4-a936-707596e04fa5◊
+Dominic HaesnerÄ89FFECC054C36ADF43FC1B6FC8C2FC61063A2003B30DF7F6A6098C1DBECC3A14671B0B9EA8FCB268F8FD7040FC82891695705019275806DB8E9E26AD2F3D0D9D=https://graph.facebook.com/100000331280396/picture?type=large(0<8ìÊ’ΩZè
+$a98d898b-5db8-4d42-bcce-46e15629269cﬁ
+Boris Conrad HeissererÄ7F356673C05FA93AFE55BD6034C2E5FC2BD55FFA7CC48B374B89E3D66C6A801EE0906814BC8A04169EFE30966482A2CDC75CDCF4CF46229D717C7BC68DBFE7EC=https://graph.facebook.com/100000195283908/picture?type=large(0<8∞˝øZ†
+$c1ce26dc-92c0-47b7-8488-a25e6bb0ad7c–
+Markus WildingÄ5EC3E135927FA31FAD96B0E0C13EBDD0C7D81FDFA2F0CA6EAD6E747A9E07CCFFE1664F649463BD0162A3F28226D0C3F0419E04F5DF0C084186E503C1DADB5D8A7https://graph.facebook.com/672454598/picture?type=large(08á‘˛øBhotspot_024_01_friendshipgateZè
+$1488dca8-4a3f-4f89-bd83-b9cee0dfe16b	ﬁ
+Boris Conrad HeissererÄ7F356673C05FA93AFE55BD6034C2E5FC2BD55FFA7CC48B374B89E3D66C6A801EE0906814BC8A04169EFE30966482A2CDC75CDCF4CF46229D717C7BC68DBFE7EC=https://graph.facebook.com/100000195283908/picture?type=large(0<8â±ó¿ZÆ
+$a97ab226-ef1d-42d9-aa50-d48ea6948959ﬁ
+Boris Conrad HeissererÄ38E16D806D7502734DEF6EA8DA5894B9AF6D36322EBAC54F49382DEBA55C434C61413797C314C878C937E411C7C2C0762B9B41C99A2E9560C3F8B5E9D75D565A=https://graph.facebook.com/100000195283908/picture?type=large(08„ìû¿Bhotspot_024_01_friendshipgateZè
+$3c62a97a-1900-4257-bc62-8c5bcf321fb4	ﬁ
+Boris Conrad HeissererÄ38E16D806D7502734DEF6EA8DA5894B9AF6D36322EBAC54F49382DEBA55C434C61413797C314C878C937E411C7C2C0762B9B41C99A2E9560C3F8B5E9D75D565A=https://graph.facebook.com/100000195283908/picture?type=large(08Ä“û¿Zè
+$493a6ba0-c418-4a02-9fbd-b818c2271169ﬁ
+Boris Conrad HeissererÄ38E16D806D7502734DEF6EA8DA5894B9AF6D36322EBAC54F49382DEBA55C434C61413797C314C878C937E411C7C2C0762B9B41C99A2E9560C3F8B5E9D75D565A=https://graph.facebook.com/100000195283908/picture?type=large(0
+8ûä¢¿Zà
+$f8a0113d-7306-4888-afec-ebff4da068d5◊
+Dominic HaesnerÄ2AEA3B1F82D85EA9812D25EC874C50DA43B00C4B8BB44F03A3B57491087F9CEB5CCE3436BAC814AC810A244EAC9C29D3927DEF5F32D0635CBC3298B655DD2D40=https://graph.facebook.com/100000331280396/picture?type=large(0	8˘¶£¿Zß
+$b5b6645a-9b6e-484f-8e97-aed81e7d60c3◊
+Dominic HaesnerÄ2AEA3B1F82D85EA9812D25EC874C50DA43B00C4B8BB44F03A3B57491087F9CEB5CCE3436BAC814AC810A244EAC9C29D3927DEF5F32D0635CBC3298B655DD2D40=https://graph.facebook.com/100000331280396/picture?type=large(0	8˙ß£¿Bhotspot_024_01_friendshipgateZ≠
+$0c170ad0-2489-46e1-b998-372ca74a1db2‡
+Roman Alexis AnastasiniÄE494B5D4298755BF765D483195D2AA7CFAD446C873D9D3CCC8C320CBD8E5B4BAF51E13E16F995798507D6A02C1A4F3086859639904DF452DAB1015A9C9639D3C>https://graph.facebook.com/1231825880168469/picture?type=large(08íΩ≠¿Bhotspot_115_friendshipgateZà
+$62e9c141-1c14-4d65-8952-c48854c632c1	◊
+Dominic HaesnerÄ89FFECC054C36ADF43FC1B6FC8C2FC61063A2003B30DF7F6A6098C1DBECC3A14671B0B9EA8FCB268F8FD7040FC82891695705019275806DB8E9E26AD2F3D0D9D=https://graph.facebook.com/100000331280396/picture?type=large(0<8≤∑Ø¿Z`
+$8146300b-651a-42e0-8e78-d21d94e599da$
+npc_friend_merchantNPC_Low 08 ¯ã∏¿Bbird_redHZV
+$c1c5ee7a-e77e-4261-a104-66063239bb7d$
+npc_friend_merchantNPC_Low 08 ¯ã∏¿HZß
+$7a81f51a-9328-4173-a36f-81dc87f8a0f7◊
+Dominic HaesnerÄ2AEA3B1F82D85EA9812D25EC874C50DA43B00C4B8BB44F03A3B57491087F9CEB5CCE3436BAC814AC810A244EAC9C29D3927DEF5F32D0635CBC3298B655DD2D40=https://graph.facebook.com/100000331280396/picture?type=large(08≥“∏¿Bhotspot_054_03_friendshipgateZ≠
+$010bfaaf-d66d-41b6-81e2-c495643d0ce1‡
+Roman Alexis AnastasiniÄE494B5D4298755BF765D483195D2AA7CFAD446C873D9D3CCC8C320CBD8E5B4BAF51E13E16F995798507D6A02C1A4F3086859639904DF452DAB1015A9C9639D3C>https://graph.facebook.com/1231825880168469/picture?type=large(08¸Ù¿¿Bhotspot_116_friendshipgateZè
+$2724a648-4f1f-478b-84bf-55cda6fc8431ﬁ
+Boris Conrad HeissererÄ6529ADBB3401A17B4D03D556903DCA1A6D343B229CAF418ECAB79ED0CA1A5F2C0FD43D2CA254D53C71A5DFC8F29DC04FC1760DFC35EF930734EF41EB631AA91C=https://graph.facebook.com/100000195283908/picture?type=large(08›¨«¿Z†
+$139cb1b8-af32-4826-933c-52f9cec176db–
+Markus WildingÄ5EC3E135927FA31FAD96B0E0C13EBDD0C7D81FDFA2F0CA6EAD6E747A9E07CCFFE1664F649463BD0162A3F28226D0C3F0419E04F5DF0C084186E503C1DADB5D8A7https://graph.facebook.com/672454598/picture?type=large(08Ô›Ò¿Bhotspot_054_03_friendshipgateZ∞
+$cf885507-c0bb-4d74-a2cc-1cf3561523bf‡
+Roman Alexis AnastasiniÄE494B5D4298755BF765D483195D2AA7CFAD446C873D9D3CCC8C320CBD8E5B4BAF51E13E16F995798507D6A02C1A4F3086859639904DF452DAB1015A9C9639D3C>https://graph.facebook.com/1231825880168469/picture?type=large(08˝å˛¿Bhotspot_076_01_friendshipgateZ∞
+$b2080b73-4e40-4515-907e-3b87d824caea‡
+Roman Alexis AnastasiniÄE494B5D4298755BF765D483195D2AA7CFAD446C873D9D3CCC8C320CBD8E5B4BAF51E13E16F995798507D6A02C1A4F3086859639904DF452DAB1015A9C9639D3C>https://graph.facebook.com/1231825880168469/picture?type=large(08ûñ˛¿Bhotspot_094_08_friendshipgateZ†
+$0e96bbf1-4931-4142-8325-0620114ae9c2–
+Markus WildingÄ5EC3E135927FA31FAD96B0E0C13EBDD0C7D81FDFA2F0CA6EAD6E747A9E07CCFFE1664F649463BD0162A3F28226D0C3F0419E04F5DF0C084186E503C1DADB5D8A7https://graph.facebook.com/672454598/picture?type=large(08•©É¡Bhotspot_076_01_friendshipgateZù
+$28a0cf9c-8003-468d-8ad0-0d923973d7d6–
+Markus WildingÄ5EC3E135927FA31FAD96B0E0C13EBDD0C7D81FDFA2F0CA6EAD6E747A9E07CCFFE1664F649463BD0162A3F28226D0C3F0419E04F5DF0C084186E503C1DADB5D8A7https://graph.facebook.com/672454598/picture?type=large(0&8¶›·¡Bhotspot_115_friendshipgateZù
+$65e248d4-a387-489b-b73d-d11c76f6a6db–
+Markus WildingÄ5EC3E135927FA31FAD96B0E0C13EBDD0C7D81FDFA2F0CA6EAD6E747A9E07CCFFE1664F649463BD0162A3F28226D0C3F0419E04F5DF0C084186E503C1DADB5D8A7https://graph.facebook.com/672454598/picture?type=large(0&8õ´„¡Bhotspot_116_friendshipgateZ†
+$6ce5dc6f-b1d5-4271-a38e-d531ebf84842–
+Markus WildingÄ5EC3E135927FA31FAD96B0E0C13EBDD0C7D81FDFA2F0CA6EAD6E747A9E07CCFFE1664F649463BD0162A3F28226D0C3F0419E04F5DF0C084186E503C1DADB5D8A7https://graph.facebook.com/672454598/picture?type=large(0.8÷Â˘¡Bhotspot_094_08_friendshipgateZà
+$31e8a45b-92ab-4c61-b747-67febc2595cc	◊
+Dominic HaesnerÄ89FFECC054C36ADF43FC1B6FC8C2FC61063A2003B30DF7F6A6098C1DBECC3A14671B0B9EA8FCB268F8FD7040FC82891695705019275806DB8E9E26AD2F3D0D9D=https://graph.facebook.com/100000331280396/picture?type=large(0?8ô≈Ö¬Zà
+$e4c71d1e-0d1a-4012-ba62-b9c425c95982◊
+Dominic HaesnerÄ89FFECC054C36ADF43FC1B6FC8C2FC61063A2003B30DF7F6A6098C1DBECC3A14671B0B9EA8FCB268F8FD7040FC82891695705019275806DB8E9E26AD2F3D0D9D=https://graph.facebook.com/100000331280396/picture?type=large(0@8É å¬ZÅ
+$2bf61a9c-77f6-4b97-8cc0-7c95178dc680	–
+Markus WildingÄ5EC3E135927FA31FAD96B0E0C13EBDD0C7D81FDFA2F0CA6EAD6E747A9E07CCFFE1664F649463BD0162A3F28226D0C3F0419E04F5DF0C084186E503C1DADB5D8A7https://graph.facebook.com/672454598/picture?type=large(018ÅÀô¬ZÅ
+$6ba95c7a-9080-493f-b2f5-71e4230339e6–
+Michael StapfÄ31AF62D658E400E69CE6A12BFAD91C7A5536984A77FD6C01C6AB85E619E277A94A5E600B25A074124B6548E41025DB16AF11EC3770CA1ED04312B07576D3E1518https://graph.facebook.com/1685245077/picture?type=large(0B8»ªß¬Zˇ
+$f38045f1-5cf0-4731-a8df-6e942195df4eŒ
+Max WaltherÄ19216ACB98CCC2DEB6CCBEBD990FB28DBAC493B8EAA45BF3C2AC14986D3EB271C0765E606F5F9CC20CAC415B14641D8731CBA5D7CCC9D66380B24D452A05FCAF8https://graph.facebook.com/1780200215/picture?type=large(08ü»¥¬ZÄ
+$0487c09f-613d-417a-961b-e823d070766aœ
+Knut GollertÄ097030882DA2F9AFDB25938C19ED8C09062DEADA96D539EDC90C43220E46EAF669AC7898B426E1F4720CF5A8705416FE19CEFA6320D7CE03C2C1F19277DC429A8https://graph.facebook.com/1129810244/picture?type=large(08±∑∆¬Zá
+$7ea051a2-fc79-4788-a76b-e49cd7644a1e÷
+Stef KreutzerÄFBB129B772C0085F82FE2B328E27CE9A227228F89524B25039617AF537768BA77E61E990772BD911F3D9E37F063ADA543F56A9A4100420F301387E355F26A35A>https://graph.facebook.com/1172704102826569/picture?type=large(08“‰ã√Z©
+$aed74188-37de-4735-b2a8-46069e368c71Ÿ
+Georg BaierÄE9009010F07EAFF6FC4A800DCA3EE8CFA732AD8F02E801095E49D232C79F04057F9967AD1BBDC612BF74A94FB87F4CFD10AF1A0BBD08C10C2B34DAAC33A5322AChttps://graph.facebook.com/v2.7/1538105242883649/picture?type=large(08Ô‘ü√Bhotspot_076_01_friendshipgateZÅ
+$2bca9ca2-7a58-42bc-8a80-3ce3cdb21ae6	–
+Markus WildingÄ5EC3E135927FA31FAD96B0E0C13EBDD0C7D81FDFA2F0CA6EAD6E747A9E07CCFFE1664F649463BD0162A3F28226D0C3F0419E04F5DF0C084186E503C1DADB5D8A7https://graph.facebook.com/672454598/picture?type=large(0;8ÈÆ√Zà
+$6ae3a9f5-4127-4d6d-98c9-c0861da2116a	◊
+Dominic HaesnerÄ89FFECC054C36ADF43FC1B6FC8C2FC61063A2003B30DF7F6A6098C1DBECC3A14671B0B9EA8FCB268F8FD7040FC82891695705019275806DB8E9E26AD2F3D0D9D=https://graph.facebook.com/100000331280396/picture?type=large(0F8Àª©ƒZü
+$b1be72b8-8172-41f7-a403-540840061219œ
+Knut GollertÄ097030882DA2F9AFDB25938C19ED8C09062DEADA96D539EDC90C43220E46EAF669AC7898B426E1F4720CF5A8705416FE19CEFA6320D7CE03C2C1F19277DC429A8https://graph.facebook.com/1129810244/picture?type=large(08ë∂»ƒBhotspot_094_08_friendshipgateZÅ
+$b2961b2c-0710-4717-a919-f72fb67eb7e6–
+Achim KaspersÄ6501A8F10D9CEA5C11AA8598B3D46408C5DF5DD96572E87362AA12E513E90C890F0F516FC4C4CE8FA4833EAE8ADBE21933E1C15646E2F6EBD302A41715FEA4198https://graph.facebook.com/1071249330/picture?type=large(0%8∂Ã¿≈ZÅ
+$6e2a5da6-2b5d-4f79-af9b-05787fe25fb0	–
+Michael StapfÄ31AF62D658E400E69CE6A12BFAD91C7A5536984A77FD6C01C6AB85E619E277A94A5E600B25A074124B6548E41025DB16AF11EC3770CA1ED04312B07576D3E1518https://graph.facebook.com/1685245077/picture?type=large(0F8ã˘¿≈ZÅ
+$24ffdf31-ecd1-474e-95cd-c8884b6202f1	–
+Markus WildingÄ5EC3E135927FA31FAD96B0E0C13EBDD0C7D81FDFA2F0CA6EAD6E747A9E07CCFFE1664F649463BD0162A3F28226D0C3F0419E04F5DF0C084186E503C1DADB5D8A7https://graph.facebook.com/672454598/picture?type=large(0@8„πÃ≈Zç
+$76de9fe2-648a-47f1-b197-2eb0777c148e	‹
+Dominic HaesnerÄ89FFECC054C36ADF43FC1B6FC8C2FC61063A2003B30DF7F6A6098C1DBECC3A14671B0B9EA8FCB268F8FD7040FC82891695705019275806DB8E9E26AD2F3D0D9DBhttps://graph.facebook.com/v2.7/100000331280396/picture?type=large(0F8≤˘÷≈Zá
+$4c7042db-d196-47ff-9d52-31b2bfd7bda8÷
+Andreas KatzigÄ9A334DAE4F203EF77F484E0FA66EB6D8A3A3250593F5117C4EBA8449611816AE0993471CDD76B1222E0D6B40B939C3248EC25BBEEB92C9779890D956B86BC4F2=https://graph.facebook.com/100000230711880/picture?type=large(08‡≈◊≈ZÅ
+$31889b4b-0f77-4da6-aaab-219aa1ee0372–
+Michael StapfÄ31AF62D658E400E69CE6A12BFAD91C7A5536984A77FD6C01C6AB85E619E277A94A5E600B25A074124B6548E41025DB16AF11EC3770CA1ED04312B07576D3E1518https://graph.facebook.com/1685245077/picture?type=large(0F8èƒÏ≈Z`
+$32a32912-ff51-4dc2-8fb2-5b2c9cd05c11$
+npc_friend_merchantNPC_Low 08 ˇœƒ∆Bbird_redHZV
+$2096028f-8dfb-4be2-893a-5b95633d73c8$
+npc_friend_merchantNPC_Low 08 ˇœƒ∆HZT
+$08d31f84-707a-498b-b5d2-c4c6fd9ca0bc	$
+npc_friend_merchantNPC_Low 08 ôµ§ ZT
+$4aac2da0-cca7-4b0c-982b-a3f45f361a26$
+npc_friend_merchantNPC_Low 08 ôµ§ Z`
+$7d17649f-c8d2-4164-9357-a3704e6d29b3$
+npc_friend_merchantNPC_Low 08 ôµ§ Bbird_redHZV
+$d7b15985-b10d-4be0-867f-996326ef7f30$
+npc_friend_merchantNPC_Low 08 ôµ§ Hb @b bÆj?https://graph.facebook.com/10203806629404807/picture?type=largerSteve Ha√üenpflugz Ç1ö ∏ŸÉ®±¿ôµ§ »‚ryzË’ø∆ Ü›» ¯Ó÷≈ ê±∫Æ±òâàª † 1.6.0“0ÿ˙µ§ Í'
+#offer_recipe_weapon_yellow_staff_01Í,
+(offer_recipe_offhand_blue_lucky_cards_01Í&
+"offer_recipe_potion_healing_all_01Í
+offer_recipe_potion_rage_02Í&
+"offer_recipe_potion_healing_all_02Í
+offer_recipe_potion_rage_03Í
+offer_recipe_potion_rage_04Í&
+"offer_recipe_potion_healing_all_03Í"
+offer_recipe_potion_healing_04Í&
+"offer_recipe_potion_healing_all_04Í"
+offer_recipe_potion_healing_05Í&
+"offer_recipe_potion_healing_all_05Í"
+offer_recipe_potion_healing_06Í&
+"offer_recipe_potion_healing_all_06Í"
+offer_recipe_potion_healing_07Í&
+"offer_recipe_potion_healing_all_07Í"
+offer_recipe_potion_healing_08Í&
+"offer_recipe_potion_healing_all_08Í"
+offer_recipe_potion_healing_09Í&
+"offer_recipe_potion_healing_all_09Í"
+offer_recipe_potion_healing_10Í&
+"offer_recipe_potion_healing_all_10Í"
+offer_recipe_potion_healing_11Í&
+"offer_recipe_potion_healing_all_11Í"
+offer_recipe_potion_healing_12Í&
+"offer_recipe_potion_healing_all_12Í"
+offer_recipe_potion_healing_13Í&
+"offer_recipe_potion_healing_all_13Í"
+offer_recipe_potion_healing_14Í&
+"offer_recipe_potion_healing_all_14Í"
+offer_recipe_potion_healing_15Í&
+"offer_recipe_potion_healing_all_15Í"
+offer_recipe_potion_healing_16Í&
+"offer_recipe_potion_healing_all_16Í"
+offer_recipe_potion_healing_17Í&
+"offer_recipe_potion_healing_all_17Í"
+offer_recipe_potion_healing_18Í&
+"offer_recipe_potion_healing_all_18Í"
+offer_recipe_potion_healing_19Í"
+offer_recipe_potion_healing_20Í"
+offer_recipe_potion_healing_21Í"
+offer_recipe_potion_healing_22Í"
+offer_recipe_potion_healing_23¯KÄàê‡¥§ †ˇÎù±®™ø¬¿≤offer_permanent_golden_chili≤offer_permanent_golden_chili_02≤offer_starter_bundle_01≤offer_starter_bundle_02≤offer_upgrade_cauldron_01≤offer_permanent_golden_chili_03≤$offer_upgrade_cauldron_01_reocurring≤offer_perma_xs∫
+RewardVideo.BattleBuffÜ⁄µ±∫
+RewardVideo.Consumable˝é£±∫
+RewardVideo.PvPGacha¬é®±∫
+RewardVideo.Campaign¥µÆ±∫
+RewardVideo.Gacha•´£µ¬ »–ƒñ∏¿àË¥§ í€
+tinker_invasion_live_07 Hˇˇˇˇˇˇˇˇˇr≠
+boss_tinkerÉ
+pig_boss_tinker_01*#
+pig_weapon_boss_tinker_0108*#
+pig_weapon_boss_tinker_0208*#
+pig_weapon_boss_tinker_0308*bosslocation_03_tinkerxê†˚ˇˇˇˇˇˇˇˇ∏¬∂§ “w
+bird_bannerPf
+bird_bannerr
+banner_tip_l1_q1_s10r
+banner_emblem_080r 
+banner_banner_l1_q4_s5 0⁄È
+pvp_season_04 *œ
+pvp_season_04_turn_07
+ (2ÄE7454FD45C4CB9F86F4FB1AF9A052EDCEAFDAECF85E68D52381DEEA979A247242C33CCFC1DD56CCB2E3B20E0A3FFAB08DDDB2E3B3258F651A281C7B4F1B953A42ÄC44103FAA03A104E3A834D7E499D306E18782CB11D2675F0EAB7C938F31164AA18EB0700F186D7457F3B30BC639B61948F5650E1AFD0261AA3B9477C7FD467BB2ÄA80497802C52FBFAF978BE194CBE702138C5BB370F9FFD198E68E5AD4F742B744D9052B0DD6DEC9F310DDF2D2DBCECB6AA883676CFAAB659223E4A0A8AE5F0882Ä04AD9A3AA1918407462B355908525F31A638528E0832716BD7CDE4FDDD673DB2D11514009592BF80370E959A8E69428D7FE911960CB0FA83B14EAD7E52AC6EAA2Ä0E4477429AFEE8364C8DF2C7E95C96CD5A89DD14F8620795137DC830CE0CDBC4770F004F4555FB45840A714FE82BAE890DE87825A9F2DDB88AF5B7A3BEB0FE5C2Ä11B1A3935C30539867554BB6518A667BD83652C9F8BE46DF658BD2C45556473105AFB84FE537FBA5050CBEC01449F59B9517230FCB5BE6EF921D5049A4B9DA472Ä90ACB2722711CEF94ADF3BE79CE7399FBA7FAB98F5E307793A3C08E3BEAF35CB3F1D7710FAFF3B5A2831514498831B7F808738426CF264CCD074450D94818A002Ä9DB03F8AB91BB0074ED56E756E6692DB33E5BF5C0C7E4FAF9288B27294DCD9981D26FC3E45CC3AC3B92A9064073CF5E7D6E7A919B3788799260F18DB59FDA2CD2Ä68A6534A542A3B21DF512AEC702313A99848318353E10779F58202BACD602C07F43389189181110C3DE719DAF81920518E2056BA1A3DBF94DC5D498020681DB12Ä422D75C361D7D769DFA269B067FBB6A5BB98D173CED9379043B54F35885FAD386D420041E6D088484B73C89D9D8991DF30210C222167F825316C9D11BE73B1112Ä1241B2BB00D44562C67390D67C5B7BC09A91626C247202C78776F11734CFE6A0D824EB25A7694D1B3CF11D42631F823E69FD976219A82D073836774F6322CCE32Ä97BB327990D4BFE90F98DD84AF37623D35075D19D22444E9A2D494A2729235540C01C109BCA0B8970B940C47A02D63F9C014052D3E8DF6DDDEA6A24F5D1875502Ä1B4C603BD90467893624C97A8ED2484C9EAF7044A14A2FDC58C23464BACF3531B26C78AE0598894DD5BEF8DECC2C78F91AB472D2BFD9C90CED1D34FFABE7EDC92ÄBB131A2D3B7C6D6D2F6B93D5DD537A1A65F874865B99A94C69732E47D675F35B47143A3E63A56B38E309C3F1ADC5EF6D669435D2432A6AD64E10F888804626A8P™∫Æ±8
+‚
+useYellow_easy"easy‚
+killBannerInEnemyTurn"normal‚
+
+tripleKill"hardË ËË¯ÇSeason 4¢j*class_wizard*class_pirate*class_samurai*class_cleric2class_samurai2class_cleric2class_pirate@h®∏¿ì 
+pvp_season_04
+ÿ‡√œƒ∆ıÕÃÃ>¯˜!Äê2ò†≤
+boss_tinkerı…Ì4ÄÁà•´£µögolden_chili_discount_02ödebug_sale_rr™%
+offer_upgrade_cauldron_01éÖÜÒ
+™+
+offer_permanent_golden_chili_03Ï”∏Ú
+∫
+class_knightskin_knight∫
+
+class_mage	skin_mage∫
+class_guardianskin_guardian∫)
+class_lightningbirdskin_lightningbird∫
+class_clericskin_cleric∫
+class_pirateskin_pirate∫#
+class_trickstersskin_tricksters∫
+class_druid
+skin_druid∫
+class_samuraiskin_samurai∫
+class_roguesskin_rogues∫
+class_princessskin_princess∫
+class_rainbirdskin_rainbird∫
+class_witch
+skin_witch∫
+class_avengerskin_avenger∫
+class_paladinskin_paladin∫#
+class_stoneguardskin_stoneguard∫
+class_wizardskin_wizard∫%
+class_thunderbirdskin_thunderbird∫%
+class_illusionistskin_illusionist∫
+
+class_bard	skin_bard∫
+class_priestskin_priest∫!
+class_cannoneerskin_cannoneer∫
+class_berserkskin_berserk∫
+class_captn
+skin_captn∫
+class_seadogskin_seadog∫)
+class_winterfighterskin_winterfighter∫
+class_skulkersskin_skulkers∫
+class_spies
+skin_spies∫
+class_marksmenskin_marksmen∫-
+class_treasurehuntersskin_treasurehunters»¸µ§ ⁄ halloween_campaign_live_02_false⁄none⁄Dungeon_16_True‡ƒÇ
+pirate_invasion_live_05 Ç
+halloween_campaign_live_02 Ç
+tinker_invasion_live_06 ò®≤$
+golden_chili_discount_02¯ûâç≤
+debug_sale_rr–È»î∫gold’·˙«B‡£ª§ 

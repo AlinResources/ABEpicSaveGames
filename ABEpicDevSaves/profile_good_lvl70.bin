@@ -1,0 +1,768 @@
+
+playerP’G
+piggy_island
+hotspot_001_camp"H&
+hotspot_002_battleground"H&
+hotspot_004_battleground"H
+hotspot_002_01_arena"&
+hotspot_012_battleground"H)
+hotspot_006_01_battleground"H&
+hotspot_006_battleground"H&
+hotspot_007_battleground"H 
+hotspot_008_01_cinepig"&
+hotspot_008_battleground"H&
+hotspot_009_battleground"H&
+hotspot_010_battleground"H)
+hotspot_011_01_resourcenode"ﬁì…î&
+hotspot_011_battleground"H&
+hotspot_013_battleground"H 
+hotspot_014_castle"H 
+hotspot_015_trainerhut"(
+hotspot_016_battleground"(H
+hotspot_017_workshop"&
+hotspot_018_battleground"H&
+hotspot_019_battleground"H)
+hotspot_020_01_battleground"H(
+hotspot_020_battleground"(H)
+hotspot_021_01_resourcenode"Íì…î&
+hotspot_021_battleground"H&
+hotspot_022_battleground"H!
+hotspot_022_01_workshop"&
+hotspot_023_battleground"H%
+hotspot_027_01_battleground"'
+hotspot_024_01_friendshipgate"%
+hotspot_024_02_battleground"%
+hotspot_024_03_battleground"
+hotspot_024_piglab"&
+hotspot_025_battleground"H&
+hotspot_026_battleground"H&
+hotspot_027_battleground"H&
+hotspot_042_battleground"H&
+hotspot_028_battleground"H%
+hotspot_029_01_battleground"&
+hotspot_029_battleground"H&
+hotspot_030_resourcenode"Äî…î(
+hotspot_031_battleground"(H!
+hotspot_032_01_pathnode"&
+hotspot_032_battleground"H&
+hotspot_033_battleground"H!
+hotspot_034_01_workshop"&
+hotspot_034_battleground"H%
+hotspot_035_01_battleground"&
+hotspot_035_battleground"H#
+hotspot_032_02_trainerhut"
+hotspot_040_pathnode"$
+hotspot_041_piggate_yellow"%
+hotspot_042_01_battleground"!
+hotspot_042_02_workshop"&
+hotspot_043_battleground"H&
+hotspot_044_battleground"H 
+hotspot_045_castle"H&
+hotspot_038_battleground"H#
+hotspot_048_01_trainerhut"&
+hotspot_036_battleground"H&
+hotspot_037_battleground"H%
+hotspot_038_01_battleground"&
+hotspot_039_battleground"H
+hotspot_046_pathnode" 
+hotspot_047_01_dungeon"&
+hotspot_047_battleground"H&
+hotspot_048_battleground"H&
+hotspot_049_battleground"H'
+hotspot_054_03_friendshipgate"&
+hotspot_054_battleground"H%
+hotspot_049_01_piggate_blue"%
+hotspot_049_02_battleground"%
+hotspot_049_03_battleground" 
+hotspot_049_04_dungeon"!
+hotspot_050_01_workshop"&
+hotspot_050_battleground"H&
+hotspot_051_battleground"H)
+hotspot_052_01_resourcenode"àî…î&
+hotspot_052_battleground"H%
+hotspot_053_01_battleground"!
+hotspot_053_02_workshop"&
+hotspot_053_battleground"H%
+hotspot_054_01_battleground"#
+hotspot_054_02_trainerhut"%
+hotspot_054_04_battleground"%
+hotspot_054_05_battleground"%
+hotspot_054_06_battleground"&
+hotspot_055_battleground"H!
+hotspot_058_01_workshop""
+hotspot_058_battleground"&
+hotspot_056_battleground"H&
+hotspot_057_battleground"H"
+hotspot_059_battleground"#
+hotspot_061_01_trainerhut""
+hotspot_060_battleground""
+hotspot_061_battleground"
+hotspot_062_pathnode",
+hotspot_063_battleground
+"(0Â†H"
+hotspot_064_resourcenode""
+hotspot_065_battleground" 
+hotspot_066_01_dungeon""
+hotspot_066_battleground""
+hotspot_067_battleground"%
+hotspot_068_01_battleground""
+hotspot_068_battleground"
+hotspot_069_castle"%
+hotspot_076_04_battleground""
+hotspot_070_piggate_blue"!
+hotspot_071_01_workshop"%
+hotspot_071_02_battleground"$
+hotspot_071_03_piggate_red"%
+hotspot_071_04_resourcenode"%
+hotspot_071_05_battleground""
+hotspot_071_battleground""
+hotspot_072_battleground""
+hotspot_073_battleground""
+hotspot_074_battleground""
+hotspot_075_battleground"'
+hotspot_076_01_friendshipgate"%
+hotspot_076_02_battleground"#
+hotspot_076_03_trainerhut""
+hotspot_076_battleground"!
+hotspot_077_01_workshop""
+hotspot_077_battleground"!
+hotspot_081_02_workshop"!
+hotspot_080_04_workshop""
+hotspot_080_battleground""
+hotspot_078_battleground""
+hotspot_079_battleground" 
+hotspot_080_01_dungeon"%
+hotspot_080_02_battleground"%
+hotspot_080_03_battleground"%
+hotspot_081_01_battleground"%
+hotspot_081_03_battleground"%
+hotspot_081_04_battleground""
+hotspot_081_battleground""
+hotspot_082_battleground""
+hotspot_083_battleground""
+hotspot_084_battleground"#
+hotspot_080_13_trainerhut"!
+hotspot_080_11_pathnode"#
+hotspot_086_01_trainerhut"%
+hotspot_080_05_battleground"%
+hotspot_080_06_battleground"%
+hotspot_080_07_resourcenode"%
+hotspot_080_08_battleground"%
+hotspot_080_09_battleground" 
+hotspot_080_10_dungeon"%
+hotspot_080_12_battleground"%
+hotspot_080_14_battleground"%
+hotspot_080_15_battleground"%
+hotspot_080_16_battleground"%
+hotspot_080_17_resourcenode"
+hotspot_086_castle""
+hotspot_087_battleground""
+hotspot_093_battleground"%
+hotspot_084_01_resourcenode""
+hotspot_085_battleground""
+hotspot_088_battleground"
+hotspot_089_workshop""
+hotspot_090_battleground""
+hotspot_091_battleground"(
+hotspot_092_01_mightyeagledojo" 
+hotspot_092_02_dungeon""
+hotspot_092_battleground"%
+hotspot_093_01_resourcenode"$
+hotspot_094_01_piggate_red"%
+hotspot_094_02_battleground"%
+hotspot_094_03_battleground"!
+hotspot_094_04_pathnode"%
+hotspot_094_05_battleground"%
+hotspot_094_06_battleground"!
+hotspot_094_07_workshop"'
+hotspot_094_08_friendshipgate"%
+hotspot_094_09_battleground"%
+hotspot_094_10_battleground"%
+hotspot_094_11_battleground"!
+hotspot_094_12_pathnode"%
+hotspot_094_13_battleground""
+hotspot_094_battleground"!
+hotspot_105_01_workshop"
+hotspot_105_castle""
+hotspot_095_battleground""
+hotspot_096_battleground"
+hotspot_097_pathnode""
+hotspot_098_battleground"%
+hotspot_099_06_battleground"!
+hotspot_099_07_pathnode"%
+hotspot_099_08_battleground""
+hotspot_099_battleground""
+hotspot_100_battleground"
+hotspot_101_pathnode""
+hotspot_102_battleground""
+hotspot_103_battleground""
+hotspot_104_battleground"%
+hotspot_099_04_battleground"%
+hotspot_099_01_battleground" 
+hotspot_099_03_dungeon"%
+hotspot_099_05_resourcenode"%
+hotspot_018_09_battleground"+
+hotspot_017_01_battleground"(H)
+hotspot_017_02_battleground"H'
+hotspot_018_01_piggate_yellow"%
+hotspot_018_02_battleground"%
+hotspot_018_03_battleground"%
+hotspot_018_04_piggate_blue"%
+hotspot_018_05_battleground"%
+hotspot_018_06_battleground"$
+hotspot_018_07_piggate_red"%
+hotspot_018_08_battleground"%
+hotspot_018_10_battleground"%
+hotspot_099_09_battleground"!
+hotspot_099_10_workshop"%
+hotspot_099_11_battleground"%
+hotspot_099_12_battleground"%
+hotspot_099_13_battleground"#
+hotspot_099_14_trainerhut"%
+hotspot_099_15_battleground"!
+hotspot_099_16_workshop"&
+hotspot_104_01_chroniclecave"$
+hotspot_116_friendshipgate"
+hotspot_114_castle"%
+hotspot_081_05_battleground"%
+hotspot_081_06_battleground"#
+hotspot_081_07_trainerhut""
+hotspot_106_battleground""
+hotspot_107_battleground"%
+hotspot_108_01_battleground"%
+hotspot_108_02_battleground"%
+hotspot_108_03_resourcenode"%
+hotspot_108_04_battleground"%
+hotspot_108_05_battleground"%
+hotspot_108_06_battleground"%
+hotspot_108_07_resourcenode""
+hotspot_108_battleground""
+hotspot_109_battleground""
+hotspot_110_battleground""
+hotspot_111_battleground""
+hotspot_112_battleground""
+hotspot_113_battleground"$
+hotspot_115_friendshipgate"
+hotspot_117_pathnode"
+hotspot_001_camp"H"Ω8
+player_inventory
+
+story_shop
+story_mailbox
+comic_cutscene_01
+addbird_yellowbird(
+addbird_whitebird(
+addbird_blackbird(
+addbird_bluebird(
+story_forge(
+forge_leveled(
+story_cauldron(
+cauldron_leveled(
+story_goldenpig
+story_steeringwheel(
+story_steeringwheel_02(
+unlock_goldenpigspawn(
+unlock_replay(
+unlock_rage(
+unlock_scrap(
+unlock_ship(
+unlock_airship(
+unlock_submarine(
+mighty_eagle_dojo(
+unlock_autobattle(
+unlock_mastery_badge¥(
+unlock_sponsored_rewards(
+unlock_enchantment(
+unlock_skins(
+
+unlock_bps(
+story_fusion
+
+key_yellow(
+key_red(
+key_blue(
+unlock_events
+
+unlock_pvp
+comic_cutscene_pvp
+unlock_xpromo(
+pvp_league_crown(
+pvp_league_crown_max(
+unlock_offer_perma_xxlR(
+
+experienceÏ¬
+goldÁÊè]0
+
+lucky_coin∞“ã]0
+friendship_essenceø—ã]0
+event_energy(
+star_collection6(
+news_introduction(
+gacha_first_use(
+gacha_standard_uses(
+shardæ”ã](0"
+class_trickstersFˆ5 $F"
+class_samuraiF‚5 $F"
+class_avengerF‚5 $F"
+class_guardianF‚5 $F"
+class_paladinF‚5 $F"
+class_stoneguardFÔ5 $F"
+class_lightningbirdF‚5 $F"
+class_wizardF‚5 $F"
+class_rainbirdF‚5 $F"
+class_thunderbirdF‚5 $F"
+class_illusionistFÔ5 $F"
+class_druidF‚5 $F"
+class_princessF‚5 $F"
+
+class_bardF‚5 $F"
+class_priestF‚5 $F"
+class_witchFÔ5 $F"
+class_cannoneerF‚5 $F"
+class_berserkF‚5 $F"
+class_captnF‚5 $F"
+class_seadogF‚5 $F"
+class_winterfighterF‚5 $F"
+class_roguesF‚5 $F"
+class_skulkersF‚5 $F"
+class_spiesF‚5 $F"
+class_marksmenF‚5 $F"!
+class_treasurehuntersF‚5 $F"
+class_roninFˆ5 $F"
+
+class_nerdFˆ5 $F"
+class_moonpriestFˆ5 $F"
+class_corsairFˆ5 $F*c
+bird_weapon_yellow_wand_set_04R *
+resource_seastar *
+resource_wood*	
+shard@
+M  ÄP*n
+'bird_weapon_black_punching_glove_set_01R *
+resource_seashell *
+resource_stone *	
+shard@
+M  ÄP*b
+bird_weapon_red_lance_set_03R *
+resource_bamboo *
+resource_seashell*	
+shard@
+M  Ä*b
+bird_weapon_white_comb_set_01R *
+resource_stone *
+resource_seashell*	
+shard@
+M  ¿ˇ*l
+!bird_weapon_blue_slingshot_set_06R *
+resource_slingshot_twig *
+resource_stone*	
+shard@
+M  Ä2g
+bird_offhand_red_shield_set_03R *
+resource_squarewood *
+resource_stone*	
+shard@
+M  ¿ˇP2g
+!bird_offhand_white_handbag_set_01R *
+resource_seastar *
+resource_stone*	
+shard@
+M  ¿ˇP2e
+ bird_offhand_blue_warhorn_set_06R *
+resource_fossil *
+resource_stone*	
+shard@
+M  ÄP2a
+bird_offhand_yellow_book_set_04R *
+resource_paper *
+resource_stone*	
+shard@
+M  ¿ˇ2k
+&bird_offhand_black_treasure_map_set_01R *
+resource_paper *
+resource_seashell*	
+shard@
+M  Ä:
+resource_flotsam»:
+resource_wood¨:
+resource_seashell»:
+resource_stone¨:
+resource_cobalt_stone¨(:
+resource_limestone¨(: 
+resource_slingshot_twig¨(:
+resource_corals
+¨(:
+resource_bamboo¨(:
+resource_squarewoodπ(:
+resource_paper¨(:
+resource_fossil¨(:
+resource_seastar»(:
+resource_ore¨(:
+resource_rainbow_shell¨(:
+resource_metal_bar¨(:
+resource_boosteræ(B
+ingredient_bananaB
+ingredient_waterB
+ingredient_vialB
+ingredient_seeds(B
+ingredient_hot_tomato(B
+ingredient_sea_berry(J
+potion_healing_01(R
+recipe_flotsam 0R
+recipe_wood 0R
+recipe_seashell 0R
+recipe_stone 0R
+recipe_banana R
+recipe_seeds 0R
+recipe_water R
+recipe_vial R
+recipe_shiny_sand R 
+recipe_weapon_red_lance_01R
+recipe_hot_tomato0R
+recipe_cobalt_stone(0R 
+recipe_potion_healing_01(0R
+recipe_potion_xp_01 (0R'
+recipe_potion_damage_all_01 (0R 
+recipe_potion_energy (0R)
+recipe_offhand_yellow_book_01
+ (0R
+recipe_paper (0R1
+%recipe_weapon_black_punching_glove_01 (0R
+recipe_sea_berry (0R
+recipe_limestone (0R!
+recipe_slingshot_twig (0R
+recipe_corals (0R'
+recipe_weapon_red_hammer_01 (0R
+recipe_squarewood (0R
+recipe_bamboo (0R
+recipe_fossil (0R
+recipe_seastar (0R
+
+recipe_ore (0R 
+recipe_rainbow_shell (0R
+recipe_metal_bar (0R
+recipe_booster (0b/
+event_boss_tinker(2bosslocation_01_tinkerb/
+event_boss_tinker(2bosslocation_01_tinkerb/
+event_boss_tinker(2bosslocation_01_tinkerb/
+event_boss_tinker(2bosslocation_01_tinkerb/
+event_boss_tinker(2bosslocation_01_tinkerb/
+event_boss_tinker(2bosslocation_01_tinkerb/
+event_boss_tinker#(2bosslocation_01_tinkerb/
+event_boss_tinker#(2bosslocation_01_tinkerb/
+event_boss_tinker#(2bosslocation_01_tinkerb/
+event_boss_tinker-(2bosslocation_01_tinkerb/
+event_boss_tinker-(2bosslocation_01_tinkerb/
+event_boss_tinker7(2bosslocation_01_tinkerb/
+event_boss_tinkerA(2bosslocation_01_tinkerb/
+event_boss_tinkerK(2bosslocation_01_tinkerb/
+event_boss_tinkerP(2bosslocation_01_tinkerj
+mastery_current	(j
+mastery_alld(r
+banner_tip_l1_q1_s1 0r 
+banner_banner_l1_q1_s1 0r
+banner_emblem_08 0z
+
+pvp_trophy
+ ä
+skin_knight ä
+	skin_mage ä
+skin_cleric ä
+skin_pirate ä
+skin_tricksters ä
+skin_samurai ä
+skin_avenger ä
+skin_guardian ä
+skin_paladin ä
+skin_stoneguard ä
+skin_lightningbird ä
+skin_wizard ä
+skin_rainbird ä
+skin_thunderbird ä
+skin_illusionist ä
+
+skin_druid ä
+skin_princess ä
+	skin_bard ä
+skin_priest ä
+
+skin_witch ä
+skin_cannoneer ä
+skin_berserk ä
+
+skin_captn ä
+skin_seadog ä
+skin_winterfighter ä
+skin_rogues ä
+skin_skulkers ä
+
+skin_spies ä
+skin_marksmen ä
+skin_treasurehunters ä
+
+skin_ronin ä
+	skin_nerd ä
+skin_moonpriest ä
+skin_corsair ä
+skin_eliteknightä
+skin_eliteroninä
+skin_eliteguardianä
+skin_elitesamuraiä
+skin_eliteavengerä
+skin_elitepaladinä
+skin_elitestoneguardä
+skin_elitemageä
+skin_elitenerdä
+skin_elitethunderbirdä
+skin_elitelightningbirdä
+skin_elitewizardä
+skin_eliterainbirdä
+skin_eliteillusionistä
+skin_eliteclericä
+skin_elitemoonpriestä
+skin_elitebardä
+skin_elitedruidä
+skin_eliteprincessä
+skin_elitepriestä
+skin_elitewitchä
+skin_elitepirateä
+skin_elitecorsairä
+skin_eliteberserkä
+skin_elitecaptnä
+skin_elitewinterfighterä
+skin_elitecannoneerä
+skin_eliteseadogä
+skin_elitetrickstersä
+skin_eliteskulkersä
+skin_eliteroguesä
+skin_elitespiesä
+skin_elitemarksmenä
+skin_elitetreasurehunters*ß
+bird_redPò
+red_bird_start"
+class_stoneguardFÔ5 $F*b
+bird_weapon_red_lance_set_03R *
+resource_bamboo *
+resource_seashell*	
+shard@
+M  Ä2g
+bird_offhand_red_shield_set_03R *
+resource_squarewood *
+resource_stone*	
+shard@
+M  ¿ˇPä
+skin_elitestoneguard*™
+bird_yellowPò
+yellow_bird_start"
+class_illusionistFÔ5 $F*c
+bird_weapon_yellow_wand_set_04R *
+resource_seastar *
+resource_wood*	
+shard@
+M  ÄP2a
+bird_offhand_yellow_book_set_04R *
+resource_paper *
+resource_stone*	
+shard@
+M  ¿ˇä
+skin_eliteillusionist*°
+
+bird_whitePê
+white_bird_start"
+class_witchFÔ5 $F*b
+bird_weapon_white_comb_set_01R *
+resource_stone *
+resource_seashell*	
+shard@
+M  ¿ˇ2g
+!bird_offhand_white_handbag_set_01R *
+resource_seastar *
+resource_stone*	
+shard@
+M  ¿ˇPä
+skin_elitewitch*µ
+
+bird_blackP§
+black_bird_start"
+class_corsairFˆ5 $F*n
+'bird_weapon_black_punching_glove_set_01R *
+resource_seashell *
+resource_stone *	
+shard@
+M  ÄP2k
+&bird_offhand_black_treasure_map_set_01R *
+resource_paper *
+resource_seashell*	
+shard@
+M  Ää
+skin_elitecorsair*ª
+	bird_blueP´
+blue_bird_start"!
+class_treasurehuntersF‚5 $F*l
+!bird_weapon_blue_slingshot_set_06R *
+resource_slingshot_twig *
+resource_stone*	
+shard@
+M  Ä2e
+ bird_offhand_blue_warhorn_set_06R *
+resource_fossil *
+resource_stone*	
+shard@
+M  ÄPä
+skin_elitetreasurehunters2protobuf8¡“® R
+tutorial_start_intro_battleR%
+!tutorial_use_supportskill_on_ally R
+enter_friendlist R
+tutorial_craft_first_itemR!
+tutorial_craft_healing_potionR
+tutorial_use_gachaR
+tutorial_start_first_battleR
+tutorial_use_consumableR
+tutorial_craft_second_itemR
+tutorial_defensive_abilityR
+tutorial_save_yellowR
+tutorial_whiteR
+tutorial_offensive_yellowR
+tutorial_defensive_yellowR
+tutorial_buy_consumableR"
+tutorial_buy_mainhandequipmentR$
+ tutorial_buy_mainhandequipment_2R
+tutorial_battle_ruleR
+tutorial_buy_classR
+tutorial_equip_classR
+tutorial_tooltip_enemyR
+tutorial_harvestR
+tutorial_exit_buy_classR
+tutorial_exit_buy_equipmentR
+tutorial_pvp_first_fightR
+tutorial_enchantmentR
+tutorial_equip_skinR
+tutorial_skin_shoppedR"
+tutorial_skin_shopped_worldmapZhotspot_042_battleground`ˇ—® ò òò™
+chronicle_cave∫ì
+default"	NPC_Porky"NPC_Adventurer"NPC_Low"NPC_High*
+	NPC_Porky *
+NPC_Adventurer *
+NPC_Low *
+NPC_High :NPC_Low@Â≈§ J—
+	NPC_Porky *  * 0ì»§ 8Bnpc_friend_princeJ Zà
+bird_banner_porkyq
+bird_banner_mccoolr
+banner_flag_set_04 (0r
+banner_emblem_23 (0r
+banner_tip_set_04 (0` ``hpçÔÌ©}J⁄
+NPC_Adventurer *  * 0ì»§ 8Bnpc_friend_adventurerJ Zà
+bird_banner_porkyq
+bird_banner_mccoolr
+banner_flag_set_04 (0r
+banner_emblem_23 (0r
+banner_tip_set_04 (0` ``hpç˘®Ÿ~J—
+NPC_Low *  * 0ì»§ 8Bnpc_friend_merchantJ Zà
+bird_banner_porkyq
+bird_banner_mccoolr
+banner_flag_set_04 (0r
+banner_emblem_23 (0r
+banner_tip_set_04 (0` ``hpç9nµ~Jœ
+NPC_High *  * 0ì»§ 8Bnpc_friend_eagleJ Zà
+bird_banner_porkyq
+bird_banner_mccoolr
+banner_flag_set_04 (0r
+banner_emblem_23 (0r
+banner_tip_set_04 (0` ``hpçµŸ!b ;b z Ç1ö ¿≈Ã® Ë¯Ÿ¡ «Ü∆ ¯˝ñ√ ò£ç¡  1.6.0“0Í&
+"offer_recipe_potion_healing_all_01Í"
+offer_recipe_potion_healing_02Í
+offer_recipe_potion_rage_02Í&
+"offer_recipe_potion_healing_all_02Í"
+offer_recipe_potion_healing_03Í
+offer_recipe_potion_rage_03Í
+offer_recipe_potion_rage_04Í&
+"offer_recipe_potion_healing_all_03Í"
+offer_recipe_potion_healing_04Í&
+"offer_recipe_potion_healing_all_04Í"
+offer_recipe_potion_healing_05Í&
+"offer_recipe_potion_healing_all_05Í"
+offer_recipe_potion_healing_06Í&
+"offer_recipe_potion_healing_all_06Í"
+offer_recipe_potion_healing_07Í&
+"offer_recipe_potion_healing_all_07Í"
+offer_recipe_potion_healing_08Í&
+"offer_recipe_potion_healing_all_08Í"
+offer_recipe_potion_healing_09Í&
+"offer_recipe_potion_healing_all_09Í"
+offer_recipe_potion_healing_10Í&
+"offer_recipe_potion_healing_all_10Í"
+offer_recipe_potion_healing_11Í&
+"offer_recipe_potion_healing_all_11Í"
+offer_recipe_potion_healing_12Í&
+"offer_recipe_potion_healing_all_12Í"
+offer_recipe_potion_healing_13Í&
+"offer_recipe_potion_healing_all_13Í"
+offer_recipe_potion_healing_14Í&
+"offer_recipe_potion_healing_all_14Í"
+offer_recipe_potion_healing_15Í&
+"offer_recipe_potion_healing_all_15Í"
+offer_recipe_potion_healing_16Í&
+"offer_recipe_potion_healing_all_16Í"
+offer_recipe_potion_healing_17Í&
+"offer_recipe_potion_healing_all_17Í"
+offer_recipe_potion_healing_18Í&
+"offer_recipe_potion_healing_all_18Í"
+offer_recipe_potion_healing_19Í"
+offer_recipe_potion_healing_20Í"
+offer_recipe_potion_healing_21Í"
+offer_recipe_potion_healing_22Í"
+offer_recipe_potion_healing_23¯àêÿƒ§ †´¬§ ≤offer_perma_xs≤offer_perma_s≤offer_perma_xxl¬ í€
+tinker_invasion_live_07 Hˇˇˇˇˇˇˇˇˇr≠
+boss_tinkerÉ
+pig_boss_tinker_01*#
+pig_weapon_boss_tinker_0108*#
+pig_weapon_boss_tinker_0208*#
+pig_weapon_boss_tinker_0308*bosslocation_01_tinkerxê†∏ö‚® “{
+bird_bannerPj
+bird_bannerr 
+banner_banner_l1_q1_s1 0r
+banner_emblem_08 0r
+banner_tip_l1_q1_s1 0⁄?
+pvp_season_11 *(
+pvp_season_11_turn_07 Hˇˇˇˇˇˇˇˇˇp¢@¿‹âÿ≤
+boss_tinkerıyÃ\ÄŸ#ögolden_chili_discount_02öconversion_offer_02öconversion_offer_01∫
+class_knightskin_knight∫
+
+class_mage	skin_mage∫
+class_clericskin_cleric∫
+class_pirateskin_pirate∫(
+class_trickstersskin_elitetricksters∫"
+class_samuraiskin_elitesamurai∫"
+class_avengerskin_eliteavenger∫$
+class_guardianskin_eliteguardian∫"
+class_paladinskin_elitepaladin∫(
+class_stoneguardskin_elitestoneguard∫.
+class_lightningbirdskin_elitelightningbird∫ 
+class_wizardskin_elitewizard∫$
+class_rainbirdskin_eliterainbird∫*
+class_thunderbirdskin_elitethunderbird∫*
+class_illusionistskin_eliteillusionist∫
+class_druidskin_elitedruid∫$
+class_princessskin_eliteprincess∫
+
+class_bardskin_elitebard∫ 
+class_priestskin_elitepriest∫
+class_witchskin_elitewitch∫&
+class_cannoneerskin_elitecannoneer∫"
+class_berserkskin_eliteberserk∫
+class_captnskin_elitecaptn∫ 
+class_seadogskin_eliteseadog∫.
+class_winterfighterskin_elitewinterfighter∫ 
+class_roguesskin_eliterogues∫$
+class_skulkersskin_eliteskulkers∫
+class_spiesskin_elitespies∫$
+class_marksmenskin_elitemarksmen∫2
+class_treasurehuntersskin_elitetreasurehunters∫
+class_roninskin_eliteronin∫
+
+class_nerdskin_elitenerd∫(
+class_moonpriestskin_elitemoonpriest∫"
+class_corsairskin_elitecorsair‡ƒ¯ò®≤$
+golden_chili_discount_02∫ä…î≤
+conversion_offer_02∫ä…î≤
+conversion_offer_01˛ä…î’ô˘˘C‡º◊® 

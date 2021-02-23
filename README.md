@@ -17,3 +17,5 @@ Go to the player section and clear the progress that start with something like "
 * All keys yellow / red / blue unlocked without defeating most bosses.
 
 ![Birds Unlocked Elite Classes test](/abepicscreenshotsprogress/Screenshot_2021-02-21-23-59-53.png)
+Elite Items / Much Money and strong modes 
+![Birds Unlocked Elite Classes test](/abepicscreenshotsprogress/Screenshot_2021-02-22-00-37-45.png)
